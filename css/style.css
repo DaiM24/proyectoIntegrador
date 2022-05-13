@@ -1,0 +1,27 @@
+.ba {
+    height: 80%; 
+    margin-left: 48rem;
+}
+
+.tickets {
+    background-color:rgb(39, 165, 39);
+}
+
+.btns {
+    font-size: .8rem;
+}
+
+.btnr {
+    font-size: .8rem;
+    background-color: rgb(6, 143, 153); 
+    border-color: rgb(6, 143, 153);
+}
+
+.enviar {
+    background-color: rgb(133, 184, 91);
+    border-color:  rgb(133, 184, 91);
+}
+
+.pie {
+    background-color: rgb(22, 62, 82);
+}
